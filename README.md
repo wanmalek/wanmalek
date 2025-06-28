@@ -25,7 +25,7 @@ Welcome to my GitHub profile e-portfolio. Make yourself at home. 😉
 <table>
   <tr>
     <td width="100%" style="padding: 10px 0; background-color:#FF0000;">
-      <a href="https://github.com/your-username/SECP1513-Technology-and-Information-Systems" target="_blank">
+      <a href="https://github.com/wanmalek/SECP1513-Technology-and-Information-Systems" target="_blank">
         <img src="https://img.shields.io/badge/SECP1513%20-%20TECHNOLOGY%20AND%20INFORMATION%20SYSTEMS-purple?style=for-the-badge&logo=github" alt="SECP1513">
       </a>
       <div>Introduction to information systems, digital technologies, and their role in business.</div>
